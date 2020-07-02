@@ -1,3 +1,2 @@
-# KotlinBaseProject
-Kotlin的基础工程
-能够快速的使用该工程构建kotlin项目
+# kotlinExcel
+使用kotlin对表格的一些数据做处理的工程
